@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/aswanabidin/">
   <img align="left" alt="aswanabidin LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/aswanabidin/">
+<a href="https://www.instagram.com/aswanabdn/">
   <img align="left" alt="aswanabidin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
