@@ -22,10 +22,10 @@ I graduated with a BS in Computer Science from Telkom University Bandung in 2018
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Kitabisa.com](https://kitabisa.com/);
-- 🌱 I’m currently learning SwiftUI ,python and Golang; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: aswanabidin16@gmail.com;
+- 👨🏽‍ 💻 I’m currently working on [Kitabisa.com](https://kitabisa.com/);
+- 🌱  I’m currently learning SwiftUI ,python and Golang; 
+- 💬  Ask me about anything, I am happy to help;
+- 📫  How to reach me: aswanabidin16@gmail.com;
 
 **Languages and Tools:**  
 
