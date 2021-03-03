@@ -12,6 +12,9 @@
 <a href="https://dribbble.com/aswanabidin">
   <img align="left" alt="aswanabidin Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />
 </a>
+<a href="https://www.behance.net/aswanabidin">
+  <img align="left" alt="aswanabidin Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+</a>
 <br/>
 <br/>
 Hi, I'm Aswan Abidin as an Software Engineer especially Android Engineer from Indonesia. Currently I mainly work with Kotlin and Java. 
