@@ -9,8 +9,8 @@
 <a href="https://www.instagram.com/aswanabidin/">
   <img align="left" alt="aswanabidin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
-<br />
+<br/>
+<br/>
 
 Hi, I'm Aswan Abidin, a Android Engineer 🚀 from Indonesia, currently, I'm a UI Designer as well 🙍🏽‍♂️ [Dribbble](https://dribbble.com/aswanabidin), Freelancer 👨🏽‍💻, Beside's programming, I enjoy traveling.
   
@@ -37,7 +37,4 @@ Hi, I'm Aswan Abidin, a Android Engineer 🚀 from Indonesia, currently, I'm a U
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=adarshreddyash&show_icons=true&hide_border=true)
-
-//credits to creators
+![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&hide_border=true)
