@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aswan Abidin, a Android Engineer 🚀 from Indonesia, currently, I'm a UI Designer as well 🙍🏽‍♂️ [Dribbble](https://dribbble.com/aswanabidin, Freelancer 👨🏽‍💻, Beside's programming, I enjoy traveling.
+Hi, I'm Aswan Abidin, a Android Engineer 🚀 from Indonesia, currently, I'm a UI Designer as well 🙍🏽‍♂️ [Dribbble](https://dribbble.com/aswanabidin), Freelancer 👨🏽‍💻, Beside's programming, I enjoy traveling.
   
 **Talking about Personal Stuffs:**
 
