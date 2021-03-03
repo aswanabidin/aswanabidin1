@@ -43,4 +43,6 @@ I graduated with a BS in Computer Science from Telkom University Bandung in 2018
 
 ![Aswan Abidin's github stats](https://github-readme-stats.vercel.app/api?username=aswanabidin&show_icons=true&hide_border=true)
 
-![Aswan Abidin ](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanabidin&layout=compact)
+![Aswan Abidin's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanabidin&layout=compact)
+
+![Aswan Abidin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswanabidin)
