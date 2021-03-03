@@ -20,7 +20,7 @@ I graduated with a BS in Computer Science from Telkom University Bandung in 2018
 **Talking about Personal Stuffs:**
 
 - 💻 &nbsp; I’m currently working on [Kitabisa.com](https://kitabisa.com/);
-- 🌱 &nbsp; I’m currently learning SwiftUI ,python and Golang; 
+- 🌱 &nbsp; I’m currently learning SwiftUI, Dart, Python and Golang; 
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; How to reach me: aswanabidin16@gmail.com;
 
