@@ -22,14 +22,16 @@ I graduated with a BS in Computer Science from Telkom University Bandung in 2018
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍ 💻 I’m currently working on [Kitabisa.com](https://kitabisa.com/);
-- 🌱  I’m currently learning SwiftUI ,python and Golang; 
-- 💬  Ask me about anything, I am happy to help;
-- 📫  How to reach me: aswanabidin16@gmail.com;
+- 💻 &nbsp; I’m currently working on [Kitabisa.com](https://kitabisa.com/);
+- 🌱 &nbsp; I’m currently learning SwiftUI ,python and Golang; 
+- 💬 &nbsp; Ask me about anything, I am happy to help;
+- 📫 &nbsp; How to reach me: aswanabidin16@gmail.com;
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png"></code>
+<code><img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
