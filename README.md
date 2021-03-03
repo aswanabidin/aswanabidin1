@@ -11,9 +11,6 @@
 </a>
 <br/>
 <br/>
-
-Hi, I'm Aswan Abidin, a Android Engineer 🚀 from Indonesia, currently, I'm a UI Designer as well 🙍🏽‍♂️ [Dribbble](https://dribbble.com/aswanabidin), Freelancer 👨🏽‍💻, Beside's programming, I enjoy traveling.
-
 Hi, I'm Aswan Abidin as an Software Engineer especially Android Engineer from Indonesia. Currently I mainly work with Kotlin and Java. 
 
 Besides programming, I also like to do User Interface Design.
