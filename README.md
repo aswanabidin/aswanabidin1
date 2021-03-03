@@ -1,29 +1,25 @@
-### Hey 👋🏽, I'm [Adarshreddy!](https://adarshreddyash.github.io) 
+### Hey 👋🏽, I'm [Aswan Abidin!](https://github.com/aswanabidin) 
 
-<a href="https://twitter.com/adarshreddyash">
-  <img align="left" alt="Adarshreddyash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/aswanabidin">
+  <img align="left" alt="aswanabidin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/aswanabidin/">
+  <img align="left" alt="aswanabidin LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/aswanabidin/">
+  <img align="left" alt="aswanabidin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
+Hi, I'm Aswan Abidin, a Android Engineer 🚀 from Indonesia, currently, I'm a UI Designer as well 🙍🏽‍♂️ [Dribbble](https://dribbble.com/aswanabidin, Freelancer 👨🏽‍💻, Beside's programming, I enjoy traveling.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👨🏽‍💻 I’m currently working on [Kitabisa.com](https://kitabisa.com/);
+- 🌱 I’m currently learning SwiftUI ,python and Golang; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+- 📫 How to reach me: aswanabidin16@gmail.com;
 
 **Languages and Tools:**  
 
